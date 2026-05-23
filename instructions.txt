@@ -1,0 +1,15 @@
+Description of the variables in the data
+X1 	Relative Compactness
+X2 	Surface Area
+X3 	Wall Area
+X4 	Roof Area
+X5 	Overall Height
+X6 	Orientation
+X7 	Glazing Area
+X8 	Glazing Area Distribution
+Y1 	Heating Load
+Y2 	Cooling Load
+
+The variables labeled X_i are attributes (covariates) and Y_i are supposed to be outcome variables. The aim is to use the features to predict each of the outcome responses. Can you think of classification models, regression models (parametric, semi-parametric, non-linear) where possible and be able to perform analysis that can assess the heating load and cooling load requirements of buildings. 
+
+I expect to see very robust analysis and we should have a very well done presentation to assess the overall understanding of this unit as we approach the examination date. 
