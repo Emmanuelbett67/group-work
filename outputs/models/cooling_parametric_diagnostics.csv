@@ -1,0 +1,5 @@
+Assumption,Test,Statistic,P_value,Interpretation_Guide
+Normality of residuals,Shapiro-Wilk,0.9362091290719514,1.5362089413067676e-15,p < 0.05 suggests non-normal residuals
+Homoscedasticity,Breusch-Pagan,170.33210666954204,6.197876884286678e-35,p < 0.05 suggests heteroscedasticity
+Independence of errors,Durbin-Watson,1.9321907129572804,,Value close to 2 suggests independence
+Model specification,Ramsey RESET,18.10882684641795,2.41633305180041e-05,p < 0.05 suggests model misspecification
