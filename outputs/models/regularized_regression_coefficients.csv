@@ -1,0 +1,85 @@
+Target,Model,Feature,Coefficient,Absolute_Coefficient
+Heating Load,Ridge Regression,num__overall_height,7.350618995052701,7.350618995052701
+Heating Load,Ridge Regression,num__relative_compactness,-6.649677579721232,6.649677579721232
+Heating Load,Ridge Regression,num__roof_area,-3.608550180180983,3.608550180180983
+Heating Load,Ridge Regression,num__surface_area,-3.5495466945368093,3.5495466945368093
+Heating Load,Ridge Regression,num__glazing_area,1.829552134702373,1.829552134702373
+Heating Load,Ridge Regression,cat__glazing_area_distribution_2,1.6904610520672234,1.6904610520672234
+Heating Load,Ridge Regression,cat__glazing_area_distribution_1,1.5867932444158732,1.5867932444158732
+Heating Load,Ridge Regression,cat__glazing_area_distribution_3,1.5187968468362538,1.5187968468362538
+Heating Load,Ridge Regression,cat__glazing_area_distribution_4,1.4262124760809,1.4262124760809
+Heating Load,Ridge Regression,cat__glazing_area_distribution_5,1.2953710940543366,1.2953710940543366
+Heating Load,Ridge Regression,cat__orientation_3,-0.583459010462156,0.583459010462156
+Heating Load,Ridge Regression,cat__orientation_4,-0.3131651842054472,0.3131651842054472
+Heating Load,Ridge Regression,num__wall_area,0.2665274458224054,0.2665274458224054
+Heating Load,Ridge Regression,cat__orientation_5,0.047155240595338405,0.047155240595338405
+Cooling Load,Ridge Regression,num__overall_height,7.350618995052701,7.350618995052701
+Cooling Load,Ridge Regression,num__relative_compactness,-6.649677579721232,6.649677579721232
+Cooling Load,Ridge Regression,num__roof_area,-3.608550180180983,3.608550180180983
+Cooling Load,Ridge Regression,num__surface_area,-3.5495466945368093,3.5495466945368093
+Cooling Load,Ridge Regression,num__glazing_area,1.829552134702373,1.829552134702373
+Cooling Load,Ridge Regression,cat__glazing_area_distribution_2,1.6904610520672234,1.6904610520672234
+Cooling Load,Ridge Regression,cat__glazing_area_distribution_1,1.5867932444158732,1.5867932444158732
+Cooling Load,Ridge Regression,cat__glazing_area_distribution_3,1.5187968468362538,1.5187968468362538
+Cooling Load,Ridge Regression,cat__glazing_area_distribution_4,1.4262124760809,1.4262124760809
+Cooling Load,Ridge Regression,cat__glazing_area_distribution_5,1.2953710940543366,1.2953710940543366
+Cooling Load,Ridge Regression,cat__orientation_3,-0.583459010462156,0.583459010462156
+Cooling Load,Ridge Regression,cat__orientation_4,-0.3131651842054472,0.3131651842054472
+Cooling Load,Ridge Regression,num__wall_area,0.2665274458224054,0.2665274458224054
+Cooling Load,Ridge Regression,cat__orientation_5,0.047155240595338405,0.047155240595338405
+Heating Load,LASSO Regression,num__overall_height,7.259493906138773,7.259493906138773
+Heating Load,LASSO Regression,num__relative_compactness,-7.0757563270209465,7.0757563270209465
+Heating Load,LASSO Regression,num__roof_area,-4.2422694524376965,4.2422694524376965
+Heating Load,LASSO Regression,num__surface_area,-3.4382149533737913,3.4382149533737913
+Heating Load,LASSO Regression,num__glazing_area,1.838525436126709,1.838525436126709
+Heating Load,LASSO Regression,cat__glazing_area_distribution_2,1.591771442661788,1.591771442661788
+Heating Load,LASSO Regression,cat__glazing_area_distribution_1,1.4890809852724707,1.4890809852724707
+Heating Load,LASSO Regression,cat__glazing_area_distribution_3,1.4198245088396504,1.4198245088396504
+Heating Load,LASSO Regression,cat__glazing_area_distribution_4,1.3283414747932087,1.3283414747932087
+Heating Load,LASSO Regression,cat__glazing_area_distribution_5,1.1935893817529217,1.1935893817529217
+Heating Load,LASSO Regression,cat__orientation_3,-0.568662648290841,0.568662648290841
+Heating Load,LASSO Regression,cat__orientation_4,-0.2961934466887077,0.2961934466887077
+Heating Load,LASSO Regression,cat__orientation_5,0.04660992291074273,0.04660992291074273
+Heating Load,LASSO Regression,num__wall_area,-0.0,0.0
+Cooling Load,LASSO Regression,num__overall_height,7.259493906138773,7.259493906138773
+Cooling Load,LASSO Regression,num__relative_compactness,-7.0757563270209465,7.0757563270209465
+Cooling Load,LASSO Regression,num__roof_area,-4.2422694524376965,4.2422694524376965
+Cooling Load,LASSO Regression,num__surface_area,-3.4382149533737913,3.4382149533737913
+Cooling Load,LASSO Regression,num__glazing_area,1.838525436126709,1.838525436126709
+Cooling Load,LASSO Regression,cat__glazing_area_distribution_2,1.591771442661788,1.591771442661788
+Cooling Load,LASSO Regression,cat__glazing_area_distribution_1,1.4890809852724707,1.4890809852724707
+Cooling Load,LASSO Regression,cat__glazing_area_distribution_3,1.4198245088396504,1.4198245088396504
+Cooling Load,LASSO Regression,cat__glazing_area_distribution_4,1.3283414747932087,1.3283414747932087
+Cooling Load,LASSO Regression,cat__glazing_area_distribution_5,1.1935893817529217,1.1935893817529217
+Cooling Load,LASSO Regression,cat__orientation_3,-0.568662648290841,0.568662648290841
+Cooling Load,LASSO Regression,cat__orientation_4,-0.2961934466887077,0.2961934466887077
+Cooling Load,LASSO Regression,cat__orientation_5,0.04660992291074273,0.04660992291074273
+Cooling Load,LASSO Regression,num__wall_area,-0.0,0.0
+Heating Load,Elastic Net Regression,num__overall_height,7.292718938064368,7.292718938064368
+Heating Load,Elastic Net Regression,num__relative_compactness,-6.95194047752298,6.95194047752298
+Heating Load,Elastic Net Regression,num__roof_area,-3.9907387704770287,3.9907387704770287
+Heating Load,Elastic Net Regression,num__surface_area,-3.530414713194478,3.530414713194478
+Heating Load,Elastic Net Regression,num__glazing_area,1.8376558932498839,1.8376558932498839
+Heating Load,Elastic Net Regression,cat__glazing_area_distribution_2,1.6034389827920876,1.6034389827920876
+Heating Load,Elastic Net Regression,cat__glazing_area_distribution_1,1.5001756157106299,1.5001756157106299
+Heating Load,Elastic Net Regression,cat__glazing_area_distribution_3,1.431550841077638,1.431550841077638
+Heating Load,Elastic Net Regression,cat__glazing_area_distribution_4,1.3392507814790182,1.3392507814790182
+Heating Load,Elastic Net Regression,cat__glazing_area_distribution_5,1.2061039094009578,1.2061039094009578
+Heating Load,Elastic Net Regression,cat__orientation_3,-0.571241121353134,0.571241121353134
+Heating Load,Elastic Net Regression,cat__orientation_4,-0.29882308358945076,0.29882308358945076
+Heating Load,Elastic Net Regression,num__wall_area,0.10497592066438348,0.10497592066438348
+Heating Load,Elastic Net Regression,cat__orientation_5,0.04714458684250917,0.04714458684250917
+Cooling Load,Elastic Net Regression,num__overall_height,7.292718938064368,7.292718938064368
+Cooling Load,Elastic Net Regression,num__relative_compactness,-6.95194047752298,6.95194047752298
+Cooling Load,Elastic Net Regression,num__roof_area,-3.9907387704770287,3.9907387704770287
+Cooling Load,Elastic Net Regression,num__surface_area,-3.530414713194478,3.530414713194478
+Cooling Load,Elastic Net Regression,num__glazing_area,1.8376558932498839,1.8376558932498839
+Cooling Load,Elastic Net Regression,cat__glazing_area_distribution_2,1.6034389827920876,1.6034389827920876
+Cooling Load,Elastic Net Regression,cat__glazing_area_distribution_1,1.5001756157106299,1.5001756157106299
+Cooling Load,Elastic Net Regression,cat__glazing_area_distribution_3,1.431550841077638,1.431550841077638
+Cooling Load,Elastic Net Regression,cat__glazing_area_distribution_4,1.3392507814790182,1.3392507814790182
+Cooling Load,Elastic Net Regression,cat__glazing_area_distribution_5,1.2061039094009578,1.2061039094009578
+Cooling Load,Elastic Net Regression,cat__orientation_3,-0.571241121353134,0.571241121353134
+Cooling Load,Elastic Net Regression,cat__orientation_4,-0.29882308358945076,0.29882308358945076
+Cooling Load,Elastic Net Regression,num__wall_area,0.10497592066438348,0.10497592066438348
+Cooling Load,Elastic Net Regression,cat__orientation_5,0.04714458684250917,0.04714458684250917
