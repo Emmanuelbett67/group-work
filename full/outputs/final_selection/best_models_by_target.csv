@@ -1,0 +1,3 @@
+Target,Model,No_of_Features,Train_R2,Train_Adjusted_R2,Test_R2,Test_Adjusted_R2,Test_RMSE,Test_MAE,Test_MAPE_percent,AIC,BIC,Source_Notebook,Train_Test_R2_Gap,Rank
+Cooling Load,Tuned Gradient Boosting Regression,,0.9988091543665368,,0.9905512769978074,0.990029968142514,0.9356775968302832,0.5628292506742076,,,,Semi-Parametric and Nonlinear,0.008257877368729405,1
+Heating Load,Tuned Gradient Boosting Regression,,0.99949930135648,,0.9986020471537544,0.998524918720858,0.3817224033595385,0.2753212781631686,,,,Semi-Parametric and Nonlinear,0.0008972542027255725,1
